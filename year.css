@@ -82,13 +82,21 @@ li{
     background-image: url(images/watch.png), url(images/gradient3.png);
     background-position: center;
     background-repeat: no-repeat;
+    padding: 200px;
+    text-align: left;
 }
 .mind{
     display: flex;
     font-size: x-large;
     font-weight: 800;
-    margin-left: 300px;
 }
 .bp2{
-    margin-left: 300px;
+    color:#ffffff;
+    font-weight: 700;
+    font-size: 20px;
+    border: 0;
+    padding: 18px 35px;
+    height: 64px;
+    border-radius: 10px;
+    background-color: #fd6e0a;
 }
