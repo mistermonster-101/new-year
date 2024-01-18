@@ -79,7 +79,7 @@ li{
     color: #757575;
 }
 .watch{
-    background-image: url(images/watch.png), url(images/gradient3.png);
+    background-image: url(images/gradient3.png), url(images/watch.png);
     background-position: center;
     background-repeat: no-repeat;
     padding: 200px;
@@ -91,12 +91,61 @@ li{
     font-weight: 800;
 }
 .bp2{
-    color:#ffffff;
+    color:#fd6e0a;
     font-weight: 700;
     font-size: 20px;
     border: 0;
     padding: 18px 35px;
     height: 64px;
     border-radius: 10px;
-    background-color: #fd6e0a;
+    background-color: #ffffff;
+}
+.black{
+    display: flex;
+    background-color: rgb(31, 31, 31);
+    color: white;
+    padding: 100px;
+}
+.ft{
+    padding-left: 150px;
+}
+li{
+    color: white;
+    list-style: none;
+}
+.P{
+    text-align: left;
+    padding-right: 300px;
+}
+.sub{
+    padding-right: 200px;
+}
+input{
+    background-color: rgb(31, 31, 31);
+    margin-bottom: 24px;
+    border: 0px;
+    border-radius: 10px;
+    width: 70%;
+    padding: 20px;
+}
+.bp3{
+    color:#fd6e0a;
+    font-weight: 700;
+    font-size: 20px;
+    border: 0;
+    padding: 18px 35px;
+    height: 64px;
+    border-radius: 10px;
+    background-color: #ffffff;
+}
+.email{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.phon{
+    padding-bottom: 40px;
+}
+.icon{
+    display: flex;
+    gap: 15px;
 }
